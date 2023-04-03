@@ -1,0 +1,9 @@
+body{
+    background-color: antiquewhite;
+    font-size: 28px;
+}
+
+.city{
+    font-weight: bold;
+    text-decoration: none;
+}
