@@ -1,3 +1,3 @@
 # Weather-App
 
-https://szymon-szczurowski.github.io/Weather-App-2/
+[Weather App 2](https://szymonszczurowski.github.io/Weather-App-2/)
